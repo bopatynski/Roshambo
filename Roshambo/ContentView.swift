@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-// Adding stuff so I can push to remote
+
 extension Image {
     
     func choiceImage() -> some View{
